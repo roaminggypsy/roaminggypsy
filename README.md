@@ -9,14 +9,12 @@ Actively seeking 2021 full-time software developer jobs.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
-- 🌱 I’m currently learning GraphQL and C++; 
-- 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
+- 👨🏽‍💻  I’m interested in Web Development. Learning React and Spring.
+- 🌱 I’m taking Computer Networks this semester. 
+- 🤔 I want to build something related to music or social network in the future
+- 💗 Love Pop music. Fav release this year: Future Nostalgia by Dua Lipa, After hours by The Weeknd
+- 🙈 Still play Pokemon Go
 - 📫 How to reach me: lynjunoyang@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
 
 **Languages and Tools:**  
 
