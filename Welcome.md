@@ -1,24 +1,5 @@
 ### Hey 👋🏽, I'm [Linjun Ouyang!](https://google.com) 
 
-<!--
-<a href="https://twitter.com/geeky_abhiz">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/abhisheknaiidu">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://leetcode.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
--->
-
-<br />
 <br />
 
 Hi, I'm Linjun Ouyang, a second-year Computer Science master student at USC, expected to graduate in May 2021. 
@@ -51,20 +32,15 @@ I'm actively seeking 2021 full-time software developer jobs.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
-
 ![Linjun Ouyang's github stats](https://github-readme-stats.vercel.app/api?username=roaminggypsy&show_icons=true&hide_border=true&count_private=true&theme=radical&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roaminggypsy)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roaminggypsy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ⭐️ From [abhisheknaiidu](https://github.com/abhisheknaiidu)
 
-<a href="https://github.com/abhisheknaiidu/A-POP">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=A-POP" />
+<a href="https://github.com/roaminggypsy/Moments">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=roaminggypsy&repo=Moments" />
 </a>
 
-<a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=IIITDMJ-GPA" />
-</a>
 -->
