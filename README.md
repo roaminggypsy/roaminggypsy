@@ -36,9 +36,9 @@ Actively seeking 2021 full-time software developer jobs.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roaminggypsy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align='left' width="50%" src="https://github-readme-stats.vercel.app/api?username=roaminggypsy&show_icons=true&hide_border=true&count_private=true&theme=radical&include_all_commits=true">
+<img align='left' width="60%" src="https://github-readme-stats.vercel.app/api?username=roaminggypsy&show_icons=true&hide_border=true&count_private=true&theme=radical&include_all_commits=true">
 
-<img align='left' width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roaminggypsy&theme=radical&langs_count=4">
+<img align='left' width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roaminggypsy&theme=radical&langs_count=4">
 
 <!--
 ⭐️ From [Linjun Ouyang](https://github.com/roaminggypsy)
