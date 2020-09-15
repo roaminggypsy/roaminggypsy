@@ -1,4 +1,11 @@
 ### Hey 👋🏽, I'm Linjun Ouyang! 
+<a href="https://linkedin.com/in/linjunouyang">
+  <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="lynjunoyang@gmail.com">
+  <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" />
+</a>
+
 
 <br />
 Computer Science master student at USC, expected to graduate in May 2021. 
@@ -14,7 +21,7 @@ Actively seeking 2021 full-time software developer jobs.
 - 🤔 I want to build something related to music or social network in the future
 - 💗 Love Pop music. Fav release this year: Future Nostalgia by Dua Lipa, After hours by The Weeknd
 - 🙈 Still play Pokemon Go
-- 📫 How to reach me: lynjunoyang@gmail.com;
+
 
 **Languages and Tools:**  
 
