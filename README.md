@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm Linjun Ouyang! 
+##  Hey 👋🏽, I'm Linjun Ouyang! <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 <a href="https://linkedin.com/in/linjunouyang">
   <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
