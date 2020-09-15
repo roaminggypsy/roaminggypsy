@@ -37,11 +37,12 @@ I'm actively seeking 2021 full-time software developer jobs.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roaminggypsy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
 ⭐️ From [Linjun Ouyang](https://github.com/roaminggypsy)
 
 <a href="https://github.com/roaminggypsy/Moments">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=roaminggypsy&repo=Moments" />
 </a>
+-->
 
 
