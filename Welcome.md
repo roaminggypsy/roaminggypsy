@@ -52,6 +52,8 @@ Hi, I'm Linjun Ouyang, a second-year Computer Science master student at USC, exp
 
 ![Linjun Ouyang's github stats](https://github-readme-stats.vercel.app/api?username=roaminggypsy&show_icons=true&hide_border=true&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roaminggypsy)](https://github.com/anuraghazra/github-readme-stats)
+
 ⭐️ From [abhisheknaiidu](https://github.com/abhisheknaiidu)
 
 
