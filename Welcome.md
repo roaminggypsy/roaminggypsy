@@ -1,5 +1,6 @@
 ### Hey 👋🏽, I'm [Linjun Ouyang!](https://google.com) 
 
+<!--
 <a href="https://twitter.com/geeky_abhiz">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -15,6 +16,7 @@
 <a href="https://leetcode.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+-->
 
 <br />
 <br />
@@ -55,9 +57,9 @@ I'm actively seeking 2021 full-time software developer jobs.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roaminggypsy)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
+<!--
 ⭐️ From [abhisheknaiidu](https://github.com/abhisheknaiidu)
 
-<!--
 <a href="https://github.com/abhisheknaiidu/A-POP">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=A-POP" />
 </a>
