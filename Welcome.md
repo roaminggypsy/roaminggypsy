@@ -50,7 +50,7 @@ Hi, I'm Linjun Ouyang, a second-year Computer Science master student at USC, exp
 
 
 
-![Linjun Ouyang's github stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&hide_border=true)
+![Linjun Ouyang's github stats](https://github-readme-stats.vercel.app/api?username=roaminggypsy&show_icons=true&hide_border=true&count_private=true)
 
 ⭐️ From [abhisheknaiidu](https://github.com/abhisheknaiidu)
 
