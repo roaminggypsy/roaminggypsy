@@ -32,10 +32,6 @@ Actively seeking 2021 full-time software developer jobs.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Linjun Ouyang's github stats](https://github-readme-stats.vercel.app/api?username=roaminggypsy&show_icons=true&hide_border=true&count_private=true&theme=radical&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roaminggypsy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <img align='left' width="63%" src="https://github-readme-stats.vercel.app/api?username=roaminggypsy&show_icons=true&hide_border=true&count_private=true&theme=radical&include_all_commits=true">
 
 <img align='left' width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roaminggypsy&theme=radical&langs_count=4">
