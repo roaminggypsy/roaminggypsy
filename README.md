@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Linjun Ouyang!](https://google.com) 
+### Hey 👋🏽, I'm Linjun Ouyang! 
 
 <br />
 
