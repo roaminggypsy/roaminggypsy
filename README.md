@@ -1,17 +1,15 @@
 #  Hey 👋🏽, I'm Linjun Ouyang! <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
-<a href="https://linkedin.com/in/linjunouyang">
-  <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="lynjunoyang@gmail.com">
-  <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" />
-</a>
+<p align="center">
+ <a href="mailto:lynjunoyang@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/himanshu-sheoran-ab047b152/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+</p>
 
 
 <br />
-Computer Science master student at USC, expected to graduate in May 2021. 
+- Computer Science master student at USC, expected to graduate in May 2021. 
 <br />
-Actively seeking 2021 full-time software developer jobs.
+- Actively seeking 2021 full-time software developer jobs.
 
 <img alt="GIF" height="250px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
