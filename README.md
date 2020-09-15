@@ -13,7 +13,7 @@ Computer Science master student at USC, expected to graduate in May 2021.
 <br />
 Actively seeking 2021 full-time software developer jobs.
 
-<img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img alt="GIF" height="400px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
