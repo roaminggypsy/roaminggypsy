@@ -1,10 +1,9 @@
 ### Hey 👋🏽, I'm Linjun Ouyang! 
 
 <br />
-
-Hi, I'm Linjun Ouyang, a second-year Computer Science master student at USC, expected to graduate in May 2021. 
+Computer Science master student at USC, expected to graduate in May 2021. 
 <br />
-I'm actively seeking 2021 full-time software developer jobs.
+Actively seeking 2021 full-time software developer jobs.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
