@@ -7,7 +7,6 @@
 
 
 - Computer Science master student at USC, expected to graduate in May 2021. 
-<br />
 - Actively seeking 2021 full-time software developer jobs.
 
 <img alt="GIF" height="250px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -16,10 +15,9 @@
 
 - 👨🏽‍💻  I’m interested in Web Development. Learning React and Spring.
 - 🌱 I’m taking Computer Networks this semester. 
-- 🤔 I want to build something related to music or social network in the future
-- 💗 Love Pop music. Fav release this year: Future Nostalgia by Dua Lipa, After hours by The Weeknd
-- 🙈 Still play Pokemon Go
-
+- 🤔 I want to build something related to music or social network in the future.
+- 💗 Love Pop music. Fav release this year: Future Nostalgia by Dua Lipa, After Hours by The Weeknd.
+- 🙈 Still play Pokemon Go.
 
 **Languages and Tools:**  
 
