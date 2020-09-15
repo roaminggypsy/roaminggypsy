@@ -19,7 +19,8 @@
 <br />
 <br />
 
-Hi, I'm Linjun Ouyang, a second-year Computer Science master student at USC, expected to graduate in May 2021. Currently, I'm actively seeking full-time software developer jobs.
+Hi, I'm Linjun Ouyang, a second-year Computer Science master student at USC, expected to graduate in May 2021. 
+I'm actively seeking 2021 full-time software developer jobs.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -56,7 +57,7 @@ Hi, I'm Linjun Ouyang, a second-year Computer Science master student at USC, exp
 
 ⭐️ From [abhisheknaiidu](https://github.com/abhisheknaiidu)
 
-
+<!--
 <a href="https://github.com/abhisheknaiidu/A-POP">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=A-POP" />
 </a>
@@ -64,3 +65,4 @@ Hi, I'm Linjun Ouyang, a second-year Computer Science master student at USC, exp
 <a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=IIITDMJ-GPA" />
 </a>
+-->
