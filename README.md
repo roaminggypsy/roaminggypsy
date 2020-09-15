@@ -1,12 +1,11 @@
 #  Hey 👋🏽, I'm Linjun Ouyang! <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
-<p align="center">
+<p>
  <a href="mailto:lynjunoyang@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/himanshu-sheoran-ab047b152/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 </p>
 
 
-<br />
 - Computer Science master student at USC, expected to graduate in May 2021. 
 <br />
 - Actively seeking 2021 full-time software developer jobs.
