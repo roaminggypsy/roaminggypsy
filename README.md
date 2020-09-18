@@ -16,7 +16,7 @@
 - 👨🏽‍💻  I’m interested in Web Development. Learning React and Spring.
 - 🌱 I’m taking Computer Networks this semester. 
 - 🤔 I want to build something related to music or social network in the future.
-- 💗 Love Pop music. Fav release this year: Future Nostalgia by Dua Lipa, After Hours by The Weeknd.
+- 💗 Love Pop music. Fav release this year: Future Nostalgia by Dua Lipa, After Hours by The Weeknd, Mood Ring by Britney Spears (#FreeBritney!)
 - 🙈 Still play Pokemon Go.
 
 **Statistics:**  
