@@ -17,7 +17,7 @@
 - 🌱 I’m taking Computer Networks this semester. 
 - 🤔 I want to build something related to music or social network in the future.
 - 💗 Pop music. 2020 Fav release: Future Nostalgia by Dua Lipa, After Hours by The Weeknd, Mood Ring by Britney Spears
-- 🙈 Still play Pokemon Go.
+- 🙈 Still play Pokemon Go. Love TikTok more than other social network.
 
 **Statistics:**  
 
