@@ -8,9 +8,8 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻  I’m interested in Web Development. Learning React and Spring.
-- 🌱 I’m taking Multimedia System Design and Game Development this semester. 
+- 🌱 I’m learning Multimedia System and Game Development this semester. 
 - 🤔 I want to build something related to music or social network in the future.
-- 💗 Pop music. 2020 Fav releases: Future Nostalgia by Dua Lipa, After Hours by The Weeknd, Mood Ring by Britney Spears
 - 🙈 Still play Pokemon Go. Love TikTok more than other platforms.
 
 **Statistics:**  
