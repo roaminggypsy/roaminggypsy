@@ -1,7 +1,6 @@
 #  Hey 👋🏽 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
 
-- Computer Science master student at USC, expected to graduate in May 2021. 
 - Actively seeking 2021 full-time software developer jobs.
 
 <img alt="GIF" height="250px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
