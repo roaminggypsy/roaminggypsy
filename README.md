@@ -1,15 +1,13 @@
 #  Hey 👋🏽 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
 
-- Actively seeking full-time software developer jobs.
+- Dawn
 
 <img alt="GIF" height="250px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m interested in Web Development. Also want to learn UX.
-- 🤔 I want to build something related to music or social network in the future.
-- 🙈 Still play Pokemon Go. Love TikTok more than other social platforms.
+- 👨🏽‍💻 Watching you watching me
 
 **Statistics:**  
 
