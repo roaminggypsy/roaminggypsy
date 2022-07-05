@@ -1,4 +1,4 @@
-#  Hey 👋🏽 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+#  Hey, this is Lin👋🏽 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
 
 - Dawn
@@ -7,7 +7,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 Watching you watching me
+- 👨🏽‍💻 stream Dawn FM!
 
 **Statistics:**  
 
@@ -16,7 +16,7 @@
 <img align='left' width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roaminggypsy&theme=radical&langs_count=4">
 
 <!--
-⭐️ From [Linjun Ouyang](https://github.com/roaminggypsy)
+⭐️ From [Lin](https://github.com/roaminggypsy)
 
 <a href="https://github.com/roaminggypsy/Moments">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=roaminggypsy&repo=Moments" />
