@@ -1,7 +1,7 @@
 #  Hey, this is Lin👋🏽 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
 
-- Dawn
+- taking a break now
 
 <img alt="GIF" height="250px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
